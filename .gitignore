@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+
+# App-generated folders
+downloads/
+Output/
+_internal/
+
+# Local settings
+settings.json
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Installer builds
+GlitchUltimateFileHub-Setup-*.exe
